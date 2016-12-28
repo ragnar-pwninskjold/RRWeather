@@ -7039,6 +7039,12 @@ font-family: 'Lora', serif;
   }
 }
 
+@media (max-width: 890px) {
+  .weather-grid {
+    margin-left: 37%;
+  }
+}
+
 
 /*end old*/
 
