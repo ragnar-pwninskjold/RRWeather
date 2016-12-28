@@ -7043,6 +7043,20 @@ font-family: 'Lora', serif;
   .weather-grid {
     margin-left: 37%;
   }
+
+  .wedux-header {
+    margin-left: 37%;
+  }
+}  
+
+@media (max-width: 600px) {
+  .weather-grid {
+    margin-left: 25%;
+  }
+
+  .wedux-header {
+    margin-left: 25%;
+  }
 }  
 
 
