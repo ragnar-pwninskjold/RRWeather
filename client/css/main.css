@@ -7044,8 +7044,8 @@ font-family: 'Lora', serif;
     margin-left: 37%;
   }
 
-  a {
-    margin-left: 37%;
+  .wedux-header {
+    margin-left: 37% !important;
   }
 }  
 
@@ -7054,8 +7054,8 @@ font-family: 'Lora', serif;
     margin-left: 25%;
   }
 
-  a {
-    margin-left: 25%;
+  .wedux-header {
+    margin-left: 25% !important;
   }
 }  
 
